@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordsToNumbersConverter", "WordsToNumbersConverter\WordsToNumbersConverter.csproj", "{384212E9-D2D9-47BC-BF6C-F6146AB265FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordsToNumbersConverter.Core", "WordsToNumbersConverter.Core\WordsToNumbersConverter.Core.csproj", "{9F6F2830-4997-43F2-80B4-955E73A1B664}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{384212E9-D2D9-47BC-BF6C-F6146AB265FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384212E9-D2D9-47BC-BF6C-F6146AB265FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384212E9-D2D9-47BC-BF6C-F6146AB265FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384212E9-D2D9-47BC-BF6C-F6146AB265FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6F2830-4997-43F2-80B4-955E73A1B664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6F2830-4997-43F2-80B4-955E73A1B664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6F2830-4997-43F2-80B4-955E73A1B664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6F2830-4997-43F2-80B4-955E73A1B664}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66175EF6-87D8-492E-A9EA-482D3D7CF70D}
+	EndGlobalSection
+EndGlobal
